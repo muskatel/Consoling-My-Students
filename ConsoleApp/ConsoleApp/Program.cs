@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.Write("Hey! All you peeps!");
+Console.WriteLine("Welcome to my app");
+Console.WriteLine("Hello! All you peeps!");
